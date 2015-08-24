@@ -14,4 +14,3 @@ Steps done on Ubuntu:
 8 git push
 9 git push -u origin master
 
-Check if this appears online
