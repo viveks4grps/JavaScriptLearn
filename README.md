@@ -15,6 +15,7 @@ Steps done on Ubuntu:
 9 git push -u origin master
 
 
+Default steps displayed
 …or create a new repository on the command line
 
 
